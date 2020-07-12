@@ -13,5 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     [width,width*2,width*2+1,width*2+2]
   ]
 
-  const tTetromino
+  const tTetromino = stuff
+
+  //comment to test github
 })
